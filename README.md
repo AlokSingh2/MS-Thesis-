@@ -1,2 +1,2 @@
-# MS-Thesis-
+# MS-Thesis
 Model execution codes 
